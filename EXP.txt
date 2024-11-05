@@ -1,0 +1,27 @@
+[
+    {
+        "Product_name": "xsoft",
+        "Product_descrip": "social",
+        "Product_amount": 250
+    },
+    {
+        "Product_name": "calud",
+        "Product_descrip": "AI",
+        "Product_amount": 50
+    },
+    {
+        "Product_name": "Zudio",
+        "Product_descrip": "Clothing",
+        "Product_amount": 45
+    },
+    {
+        "Product_name": "TATA",
+        "Product_descrip": "consultancy",
+        "Product_amount": 300
+    },
+    {
+        "Product_name": "Meera",
+        "Product_descrip": "AI",
+        "Product_amount": 100000
+    }
+]
